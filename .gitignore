@@ -1,6 +1,3 @@
-Este cobre o seu caso — Python, FastAPI, notebook, Windows:
-
-gitignore
 # ===== Segredos =====
 .env
 .env.*
